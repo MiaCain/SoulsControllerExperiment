@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpperBody
+  m_Mask: 00000000010000000100000001000000010000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: ClayArmL
+    m_Weight: 0
+  - m_Path: ClayArmR
+    m_Weight: 0
+  - m_Path: ClayHead
+    m_Weight: 0
+  - m_Path: ClayLegs
+    m_Weight: 0
+  - m_Path: ClayTorso
+    m_Weight: 0
+  - m_Path: HumanArm
+    m_Weight: 1
+  - m_Path: HumanArm/Root
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.L
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.L/Arm2.L
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.L/Arm2.L/Arm3.L
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.L/Arm2.L/Arm3.L/Arm4.L
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.L/Arm2.L/Arm3.L/Arm4.L/Hand.L
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.L/Arm2.L/Arm3.L/Arm4.L/Hand.L/F11.L
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.L/Arm2.L/Arm3.L/Arm4.L/Hand.L/F11.L/F12.L
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.L/Arm2.L/Arm3.L/Arm4.L/Hand.L/F21.L
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.L/Arm2.L/Arm3.L/Arm4.L/Hand.L/F21.L/F22.L
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.L/Arm2.L/Arm3.L/Arm4.L/Hand.L/F31.L
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.L/Arm2.L/Arm3.L/Arm4.L/Hand.L/F31.L/F32.L
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.R
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.R/Arm2.R
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.R/Arm2.R/Arm3.R
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.R/Arm2.R/Arm3.R/Arm4.R
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.R/Arm2.R/Arm3.R/Arm4.R/Hand.R
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.R/Arm2.R/Arm3.R/Arm4.R/Hand.R/F11.R
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.R/Arm2.R/Arm3.R/Arm4.R/Hand.R/F11.R/F12.R
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.R/Arm2.R/Arm3.R/Arm4.R/Hand.R/F21.R
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.R/Arm2.R/Arm3.R/Arm4.R/Hand.R/F21.R/F22.R
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.R/Arm2.R/Arm3.R/Arm4.R/Hand.R/F31.R
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.R/Arm2.R/Arm3.R/Arm4.R/Hand.R/F31.R/F32.R
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Arm1.R/Arm2.R/Arm3.R/Arm4.R/Hand.R/Sword_Out
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Neck
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Neck/Head1
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Neck/Head1/Head2
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Sword_In
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Spine1/Spine2/Sword_In/Wrench
+    m_Weight: 1
+  - m_Path: HumanArm/Root/Spine0/Thigh.L
+    m_Weight: 0
+  - m_Path: HumanArm/Root/Spine0/Thigh.L/Shin.L
+    m_Weight: 0
+  - m_Path: HumanArm/Root/Spine0/Thigh.L/Shin.L/Foot.L
+    m_Weight: 0
+  - m_Path: HumanArm/Root/Spine0/Thigh.L/Shin.L/Foot.L/Heel.L
+    m_Weight: 0
+  - m_Path: HumanArm/Root/Spine0/Thigh.L/Shin.L/Foot.L/Toe.L
+    m_Weight: 0
+  - m_Path: HumanArm/Root/Spine0/Thigh.R
+    m_Weight: 0
+  - m_Path: HumanArm/Root/Spine0/Thigh.R/Shin.R
+    m_Weight: 0
+  - m_Path: HumanArm/Root/Spine0/Thigh.R/Shin.R/Foot.R
+    m_Weight: 0
+  - m_Path: HumanArm/Root/Spine0/Thigh.R/Shin.R/Foot.R/Heel.R
+    m_Weight: 0
+  - m_Path: HumanArm/Root/Spine0/Thigh.R/Shin.R/Foot.R/Toe.R
+    m_Weight: 0
+  - m_Path: RawBody
+    m_Weight: 0
